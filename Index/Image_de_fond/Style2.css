@@ -1,0 +1,24 @@
+h1{
+    font-size: 2em ;
+    color: red;
+    font-family: 'Arial Black';
+    position: center;
+}
+
+h2{
+    font-size: 1.4em ;
+    color: blue;
+    font-family: 'Arial';
+    font-weight: italic;
+    font-weight: Bold;
+}
+
+p{
+    font-size:normal ;
+    color: black;
+    font-family: 'Verdana';
+}
+
+body{
+    background-image: url('gnome.jpg');
+}
