@@ -1,0 +1,21 @@
+h1{
+    font-size: 2em ;
+    color: red;
+    font-family: 'Arial Black';
+    position: center;
+    
+}
+
+h2{
+    font-size: 1.4em ;
+    color: blue;
+    font-family: 'Arial';
+    font-style: italic;
+    font-weight: bold;
+}
+
+p{
+    font-size:normal ;
+    color: black;
+    font-family: 'Verdana';
+}
